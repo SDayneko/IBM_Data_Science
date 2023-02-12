@@ -1,2 +1,2 @@
-# IBM_Data_Science
-IBM_Data_Science
+# IBM Data Science
+IBM Data Science
